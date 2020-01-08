@@ -11,6 +11,8 @@ def pretty_print_nds(nds)
    a_o_a= [[1,2,3],[456],[7,8,9]]
   
 end
+pp 'names'
+
 
    
    
@@ -21,6 +23,8 @@ end
      puts movies[i][:title]
      i += 1
  end
+ end
+ 
  
  
 
