@@ -11,9 +11,10 @@ def pretty_print_nds(nds)
    a_o_a= [[1,2,3],[456],[7,8,9]]
    nil 
 end
-   pp name
-   pp movies
-   pp a_o_a
+   pp 'name'
+   pp 'movies'
+   pp 'a_o_a'
+   
    
 
 
